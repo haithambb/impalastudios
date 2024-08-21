@@ -1,3 +1,5 @@
+_**The trace files have been removed shortly after being added, because they are suspected to contain secrets.**_
+
 # Impala Studio QA Assignment
 
 This folder contains a collection of trace files from Charles Proxy and a video demonstration a bug.
