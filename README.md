@@ -1,6 +1,6 @@
 # Impala Studio QA Assignment
 
-This folder contains a collection of trace files from Charles Proxy and a video demonstration related to specific sessions.
+This folder contains a collection of trace files from Charles Proxy and a video demonstration a bug.
 
 ## Contents
 - **Trace Files**: In the `tarces` directory, there's a mix of `.trace` files containing session data, with one file compressed as a `.zip`.
