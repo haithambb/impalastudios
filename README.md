@@ -12,7 +12,7 @@ After downloading the repository, follow these steps:
 
 1. Navigate to the `tarces` directory:
    ```bash
-   cd tarces
+   cd traces
    ```
 2. Unzip the compressed trace file and remove the `.zip` file:
    ```bash
